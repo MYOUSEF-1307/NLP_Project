@@ -1,4 +1,4 @@
-#Leveraging Fine-Tuned Ensemble Models for Multi-Class Code Plagiarism and AI Code Detection
+**Leveraging Fine-Tuned Ensemble Models for Multi-Class Code Plagiarism and AI Code Detection**
 
 Plagiarism detection and the identification of AI-generated code in programming
 assignments, both in education and professional settings, are some of the most
