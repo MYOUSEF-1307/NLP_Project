@@ -1,5 +1,11 @@
 # Leveraging Fine-Tuned Ensemble Models for Multi-Class Code Plagiarism and AI Code Detection
 
+Code Plaagirism Detection Sysytem
+![WhatsApp Image 2024-12-28 at 00 32 27_bc62ea11](https://github.com/user-attachments/assets/db7eae7a-5eec-4617-bd63-a4d3ec5f590e)
+
+AI code Detection System
+![image](https://github.com/user-attachments/assets/2e8103bc-ad13-4d84-8782-497cc49144fc)
+
 Plagiarism detection and the identification of AI-generated code in programming
 assignments, both in education and professional settings, are some of the most
 considerable challenges. Most current state-of-the-art modern tools have problems
