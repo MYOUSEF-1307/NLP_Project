@@ -1,0 +1,15 @@
+artifact_uri: file:///media/morshdy/New%20Volume/Nile%20university/SEMESTER%207/NatrualLanguageProcessing/Project/NLP_Project/mlruns/0/c436caf78bca4563bca37a7baf5d34f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c436caf78bca4563bca37a7baf5d34f3
+run_name: ./results
+run_uuid: c436caf78bca4563bca37a7baf5d34f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735327707521
+status: 1
+tags: []
+user_id: morshdy
